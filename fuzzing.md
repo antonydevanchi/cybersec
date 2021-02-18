@@ -2,14 +2,14 @@
 
 ## Payload
 
-https://github.com/alienwhatever/Admin-Scanner.git
-https://github.com/swisskyrepo/PayloadsAllTheThings.git
-https://github.com/ppbibo/PentesterSpecialDict.git
-https://github.com/danielmiessler/RobotsDisallowed.git
-https://github.com/danielmiessler/SecLists.git
-https://github.com/assetnote/commonspeak2-wordlists.git
-https://github.com/fuzzdb-project/fuzzdb.git
-https://github.com/danielmiessler/RobotsDisallowed.git
+— https://github.com/alienwhatever/Admin-Scanner.git
+— https://github.com/swisskyrepo/PayloadsAllTheThings.git
+— https://github.com/ppbibo/PentesterSpecialDict.git
+— https://github.com/danielmiessler/RobotsDisallowed.git
+— https://github.com/danielmiessler/SecLists.git
+— https://github.com/assetnote/commonspeak2-wordlists.git
+— https://github.com/fuzzdb-project/fuzzdb.git
+— https://github.com/danielmiessler/RobotsDisallowed.git
 
 ## Worker
 
